@@ -1,6 +1,6 @@
-# Vue CLI 3- Chrome Extension
+# Vue CLI 4 - Chrome Extension
 
-Browser extension development plugin for vue-cli 3.x
+Browser extension development plugin for vue-cli 4.x
 
 * https://github.com/adambullmer/vue-cli-plugin-browser-extension
 
